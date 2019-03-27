@@ -1,0 +1,3 @@
+Sql Statement to pull Class Schedule from MySQL Database
+
+select * .....
